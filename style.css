@@ -1,0 +1,96 @@
+body{
+    padding:0;
+    margin:0;
+
+}
+h1{
+    text-align: center;
+    color:rgb(108, 222, 108);
+    font-size: 3vw;
+
+}
+.container{
+   border:0px solid black;
+   text-align: center;
+   padding:1vw;  
+   width:40%;
+   margin:auto;
+   height:auto;
+   margin-top:5vw;
+   border-radius: .5rem;
+   box-shadow: 1px 2px 3px rgb(145, 137, 137);
+   transition: all 2s linear;
+
+}
+#time{
+    border:0px solid black;
+    color:rgb(0, 192, 144);
+    padding:5vw;
+   
+    
+}
+.digit{
+    padding:1vw;
+    font-size:2.5vw;
+    transition: all 2s linear;
+}
+.txt{
+    padding-right:1vw;
+    font-size:1vw;
+}
+.btn-container{
+    padding:1vw;
+    border:0px solid black;
+   
+}
+.btn1{
+    margin:1vw;
+    padding:1vw 2vw;
+    color:rgb(254, 255, 253);
+    background: rgb(114, 105, 105);
+    border:none;
+    box-shadow:1px 2px 4px rgb(108, 205, 108);
+    border-radius: .3rem;
+    text-transform: capitalize;
+    transition: all 2s linear;
+    
+}
+.btn1:hover{
+    border:.5px solid rgb(54, 232, 54);
+    background: rgb(54, 232, 54);
+    transition: all 2s linear;
+    
+}
+.btn2{
+    margin:1vw;
+    padding:1vw 2vw;
+    color:rgb(254, 255, 253);
+    background: rgb(114, 105, 105);
+    border:none;
+    box-shadow:1px 2px 4px rgb(199, 64, 64);
+    border-radius: .3rem;
+    text-transform: capitalize;
+    transition: all 2s linear;
+}
+.btn2:hover{
+    border:.5px solid rgb(243, 6, 6);
+    background: rgb(243, 6, 6);
+    transition: all 2s linear;
+}
+.btn3{
+    margin:1vw;
+    padding:1vw 2vw;
+    color:rgb(254, 255, 253);
+    background: rgb(114, 105, 105);
+    border:none;
+    box-shadow:1px 2px 4px rgb(90, 157, 158);
+    border-radius: .3rem;
+    text-transform: capitalize;
+    transition: all 2s linear;
+}
+.btn3:hover{
+    border:.5px solid rgb(0, 187, 255);
+    background: rgb(0, 187, 255);
+    transition: all 2s linear;
+}
+
